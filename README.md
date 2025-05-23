@@ -1,5 +1,5 @@
-👋 Hi, I’m Stefanie!
-👀 I’m interested in Data Analytics, Data Visualization, Python and Java
+👋 Hi, I’m Stefanie! <br>
+👀 I’m interested in Data Analytics, Data Visualization, Python and Java <br>
 ⚡ and using this GitHub as a personal training ground.
 
 <!---
